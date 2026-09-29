@@ -1,0 +1,14 @@
+.env
+
+.venv
+venv/
+
+pytest.ini
+.pytest_cache
+
+**/__pycache__
+**/.pytest_cache__
+
+
+postgres_data/
+redis_data/
