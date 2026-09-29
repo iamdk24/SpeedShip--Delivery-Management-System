@@ -7,7 +7,7 @@ SpeedShip is an end-to-end delivery management system built with FastAPI. It pro
 
 The backend is containerized using Docker and uses PostgreSQL for persistent data, Redis for caching/message brokering, and Celery for asynchronous background processing.
 
-🚀 FEATURES
+🚀 FEATURES: 
 Authentication & Authorization,
 JWT-based authentication,
 Seller registration and login,
